@@ -27,6 +27,8 @@ ingredients:
   - Salz:
   - Pfeffer:
 ---
-Die gehackte Zwiebel gemeinsam mit dem in Würfel geschnittenen Fleisch anrösten. Anschließend das Tomatenmark dazugeben und mit Salz und Pfeffer würzen. Danach mit 2 Tassen Wasser aufgießen und das Paprikapulver hinzugeben und 1 h köcheln lassen.
+Die gehackte Zwiebel gemeinsam mit dem in Würfel geschnittenen Fleisch anrösten.
+Anschließend das Tomatenmark dazugeben und mit Salz und Pfeffer würzen.
+Danach mit 2 Tassen Wasser aufgießen und das Paprikapulver hinzugeben und 1 h. köcheln lassen.
 
-Nachher den Reis hinzugeben, die restlichen 4 Tassen Wasser dazugeben und 30 min köcheln lassen.
+Nachher den Reis hinzugeben, die restlichen 4 Tassen Wasser dazugeben und 30 min. köcheln lassen.
